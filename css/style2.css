@@ -1,0 +1,31 @@
+*{
+.box{
+    position:relative;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50,-50);
+    background-color: #c4c4c4;
+    padding: 15px;
+    border-radius: 15px;
+    width: 30%;
+}
+fieldset{
+    border: 3px solid;
+}
+legend{
+    border: 1px solid;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+.inputBox{
+    position: relative;
+}
+.inputUser{
+    font-size: 15px;
+    width: 100%;
+    letter-spacing: 2px;
+}
+
+}
