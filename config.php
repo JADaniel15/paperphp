@@ -7,11 +7,11 @@ $dbName = 'cadastro_aulas';
 
 $conexao = new mysqli($dbHost, $dbUsername, $dbPassword, $dbName);
 
-//if($conexao ->connect_errno){
+/**if($conexao ->connect_errno){
 
-    //echo "Erro";
-////}
-//else{
- //   echo "Conexao efeutada com sucesso!";
-//}
+    echo "Erro";
+}
+else{
+    echo "Conexao efeutada com sucesso!";
+}*/
 ?>
